@@ -1,0 +1,17 @@
+{
+  "name": "express-auth-hmac",
+  "version": "1.0.0",
+  "description": "Express middleware to encode and decode user identity with tamper detection via HMAC",
+  "main": "index.js",
+  "keywords": [
+    "authorization",
+    "express",
+    "hmac"
+  ],
+  "author": "Brian Hammond <brian@fictorial.com>",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "express": "^4.16.4"
+  }
+}
