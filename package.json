@@ -8,6 +8,7 @@
     "express",
     "hmac"
   ],
+  "repository": "git@github.com:fictorial/express-auth-hmac.git",
   "author": "Brian Hammond <brian@fictorial.com>",
   "license": "MIT",
   "dependencies": {},
